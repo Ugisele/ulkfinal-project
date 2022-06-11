@@ -67,7 +67,8 @@ a {
     color: #fff; }
     .btn.btn-black:hover, .btn.btn-black:active, .btn.btn-black:focus {
       background-color: #51eaea;
-      color: #000; }
+      color: #000; 
+    }
 
 .form-control {
   height: 43px; }
